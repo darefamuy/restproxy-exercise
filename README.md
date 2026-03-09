@@ -32,7 +32,6 @@ dotnet run
 - `Program.cs`: The entry point that runs the HTTP producer.
 - `HTTPProducer.cs`: Produces records using the Confluent Cloud Kafka REST API (v3).
 - `KafkaCsharp.csproj`: Project file with dependencies.
-- `docker-compose.yaml`: Local Kafka cluster setup (Optional).
 
 ## How to Run
 
